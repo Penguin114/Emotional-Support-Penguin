@@ -1,0 +1,7 @@
+{
+  "name": "a-little-warmth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A quiet Antarctic scene with a friendly penguin and positive affirmations.",
+  "scripts": { "dev": "node preview.mjs", "check": "node --check dist/app.js" }
+}
